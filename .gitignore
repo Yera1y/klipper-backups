@@ -1,8 +1,11 @@
 .env
-secrets.conf
+secrets.conf*.bkp
+*.csv
 *.swp
+aic8800.zip
 *.tmp
 printer-[0-9]*_[0-9]*.cfg
+ShakeTune_results
 *.bak
 *.bkp
 *.csv
